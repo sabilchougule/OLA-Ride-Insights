@@ -1,12 +1,14 @@
 # OLA Ride Insights — End-to-End Data Analytics Project
 
+**Live Streamlit Dashboard:** [ola-ride-insights-2kz2uyzgpwyhragmpkjoam.streamlit.app](https://ola-ride-insights-2kz2uyzgpwyhragmpkjoam.streamlit.app)
+
 An end-to-end ride-sharing analytics project analyzing **103,024 OLA ride bookings** from Bengaluru (July 2024) using **Python**, **SQLite / SQL**, **Power BI**, and **Streamlit**.
 
 ## Tech Stack
 - **Data Cleaning & EDA:** Python, Pandas, Matplotlib, Seaborn
 - **Database & Querying:** SQLite (`ola_rides.db`), SQL
 - **BI Dashboard:** Power BI Desktop (5-page interactive report + DAX)
-- **Web App:** Streamlit, Plotly
+- **Web App:** Streamlit, Plotly (deployed on Streamlit Community Cloud)
 
 ## Project Structure
 ```text
